@@ -1,5 +1,5 @@
 ---
-title: "Data 607 - Lab 4.A"
+title: "Data 606 - Lab 4.A"
 author: "Peter Kowalchuk"
 date: "10/06/2018"
 output:
